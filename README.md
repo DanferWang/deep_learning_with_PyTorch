@@ -10,4 +10,5 @@ One more simple CNN is also performed.
 For images and video type data
 
 ### Object Detecting
+  dataset: [PennFudan](https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip)
 Mainly use Faster R-CNN, Mask R-CNN to do detection and segmentation.
